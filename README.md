@@ -1,4 +1,4 @@
-# 2dGamePrograming
+# 2dGamePrograming (CampDefens)
 
 # 2015.09.24 - github 생성 및 1차발표자료 업로드
 # 2015.10.04 - 2D 게임프로젝트 이미지리소스 업로드
