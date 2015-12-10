@@ -1,0 +1,6 @@
+{
+"Ice_wolf" : {"speed": 20, "hp" : 2, "score" : 200},
+"Yeti" : {"speed": 5, "hp" : 7, "score" : 500},
+"Bonus" : {"speed": 15, "hp" : 2, "life" : 1},
+"Falcon" : {"speed": 30, "hp" : 1, "score" : 300}
+}
