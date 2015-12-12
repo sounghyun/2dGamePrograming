@@ -1,0 +1,6 @@
+{
+"Heroine" : {"speed": 17, "hp" : 2, "life" : 5},
+"Amazon" : {"speed": 20, "hp" : 1, "score" : 500},
+"General" : {"speed": 10, "hp" : 1, "score" : 1000},
+"Soldier" : {"speed": 15, "hp" : 1, "score" : 300}
+}
